@@ -18,7 +18,7 @@ echo "${CYAN_TEXT}${BOLD_TEXT}============================================${RESE
 echo "${CYAN_TEXT}${BOLD_TEXT}🚀  WELCOME TO Jaison's Script           🚀${RESET_FORMAT}"
 echo "${CYAN_TEXT}${BOLD_TEXT}============================================${RESET_FORMAT}"
 echo
-echo "${GREEN_TEXT}${BOLD_TEXT}Don't forget to subscribe to Dr. Abhishek's YouTube channel:${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}=============================================${RESET_FORMAT}"
 echo "${BLUE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://code-with-jaison.pages.dev/${RESET_FORMAT}"
 echo
 
