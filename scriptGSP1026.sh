@@ -24,7 +24,7 @@ RESET=`tput sgr0`
 
 # Header Section
 echo "${BG_MAGENTA}${BOLD}╔════════════════════════════════════════════════════════╗${RESET}"
-echo "${BG_MAGENTA}${BOLD}        WELCOME TO DR ABHISHEK CLOUD TUTORIAL       ${RESET}"
+echo "${BG_MAGENTA}${BOLD}        WELCOME TO CLOUD SCRIPT GSP1026                   ${RESET}"
 echo "${BG_MAGENTA}${BOLD}╚════════════════════════════════════════════════════════╝${RESET}"
 echo
 echo "${CYAN}${BOLD}          https://code-with-jaison.pages.dev/              ${RESET}"
